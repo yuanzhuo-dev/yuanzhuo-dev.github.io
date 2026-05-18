@@ -19,7 +19,7 @@ redirect_from:
 
 I am Yuanzhuo (Pronunciation: /yuan-draw/). I obtained my master's degree in Computer Engineering from the University of Illinois Urbana-Champaign. I obtained my bachelor's degree from Huazhong University of Science and Technology.
 
-My research interests include formal methods and the verification of programming languages and compiler optimization. Recently, I have been working on how to build a scalable and fast SMT (Satisfiability Modulo Theories) solver, which is used as the backend engine for formal verification.
+My research interests include formal methods/verification of programming languages and compiler optimization. Recently, I have been working on how to build a scalable and fast SMT (Satisfiability Modulo Theories) solver, which is used as the backend engine for formal verification.
 
 
 <!-- # 🔥 News
@@ -43,7 +43,7 @@ My research interests include formal methods and the verification of programming
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# Educations
+# Education
 - *2023.08 - 2024.12*, Master of Engineering in Electrical and Computer Engineering at University of Illinois Urbana Champaign.
 - *2018.09 - 2022.06*, Bachelor of Engineering in Electrical Engineering at Huazhong University of Science and Technology.
 
@@ -51,5 +51,6 @@ My research interests include formal methods and the verification of programming
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# Internships
+# Experience
+- *2025.01 - 2026.05*, Research Assistant, [Virginia Tech](https://www.vt.edu/), USA.
 - *2023.06 - 2023.08*, Software Development Engineer Intern, [Kingsoft Cloud](https://en.ksyun.com/), China.
