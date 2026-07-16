@@ -28,7 +28,7 @@ My research interests include formal methods/verification of programming languag
 
 # Publications 
 
-- [Scalable Floating-Point Satisfiability via Staged Optimization](https://arxiv.org/abs/2601.04492).
+- [Scalable Floating-Point Satisfiability via Staged Optimization](https://dl.acm.org/doi/10.1145/3808342).
 
   **Yuanzhuo Zhang**, Zhoulai Fu, and Binoy Ravindran (2026).
 
