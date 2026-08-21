@@ -30,7 +30,7 @@ My research interests include formal methods/verification of programming languag
 
 - [Scalable Floating-Point Satisfiability via Staged Optimization](https://dl.acm.org/doi/10.1145/3808342).
 
-  **Yuanzhuo Zhang**, Zhoulai Fu, and Binoy Ravindran (2026).
+  **Y. Zhang**, Z. Fu, and B. Ravindran (2026).
 
   Proceedings of the ACM on Programming Languages, Volume 10, Issue PLDI.
 
