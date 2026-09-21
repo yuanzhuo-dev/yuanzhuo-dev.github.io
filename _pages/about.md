@@ -19,7 +19,7 @@ redirect_from:
 
 I am Yuanzhuo (Pronunciation: /yuan-draw/). I obtained my master's degree in Computer Engineering from the University of Illinois Urbana-Champaign. I obtained my bachelor's degree from Huazhong University of Science and Technology.
 
-My research interests include formal methods/verification of programming languages and compiler optimization. Recently, I have been working on how to build a scalable and fast SMT (Satisfiability Modulo Theories) solver, which is used as the backend engine for formal verification.
+My research interests include formal methods/verification of programming languages and compiler optimization. Previously, I have been working on how to build a scalable and fast floating-point SMT (Satisfiability Modulo Theories) solver, which is used as the backend engine for formal verification.
 
 
 <!-- # 🔥 News
