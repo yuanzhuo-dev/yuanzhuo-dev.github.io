@@ -34,7 +34,7 @@ My research interests include formal methods/verification of programming languag
 
   Proceedings of the ACM on Programming Languages, Volume 10, Issue PLDI.
 
-  [[Project](https://github.com/stagesat-solver/stagesat)]  
+  [[GitHub](https://github.com/stagesat-solver/stagesat)]  
 
 <!-- - **Your Name**, Other Authors (Year). [Paper Title](link). *Venue*, Details. [[Project](link)]  
   Full Conference Name (CONF YEAR), Dates, Location (Artifact Badges) -->
