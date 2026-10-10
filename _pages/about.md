@@ -28,12 +28,6 @@ My research interests include formal methods/verification of programming languag
 
 # Publications 
 
-- [Accelerating Floating-Point Satisfiability Solving via Gradient Normalization](https://arxiv.org/abs/2610.08808).
-
-  arxiv.
-
-  <!-- [[GitHub](https://github.com/stagesat-solver/stagesat)]   -->
-
 - [Scalable Floating-Point Satisfiability via Staged Optimization](https://dl.acm.org/doi/10.1145/3808342).
 
   **Y. Zhang**, Z. Fu, and B. Ravindran (2026).
@@ -41,6 +35,14 @@ My research interests include formal methods/verification of programming languag
   Proceedings of the ACM on Programming Languages, Volume 10, Issue PLDI.
 
   [[GitHub](https://github.com/stagesat-solver/stagesat)]  
+
+Manuscript
+
+- [Accelerating Floating-Point Satisfiability Solving via Gradient Normalization](https://arxiv.org/abs/2610.08808).
+
+  arxiv.
+
+  <!-- [[GitHub](https://github.com/stagesat-solver/stagesat)]   -->
 
 <!-- - **Your Name**, Other Authors (Year). [Paper Title](link). *Venue*, Details. [[Project](link)]  
   Full Conference Name (CONF YEAR), Dates, Location (Artifact Badges) -->
