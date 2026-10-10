@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuanzhuo Zhang"
-description              : "Yuanzhuo Zhang's Homepage"
+description              : "My Homepage"
 repository               : "yuanzhuo-dev/yuanzhuo-dev.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Yuanzhuo Zhang"
   avatar           : "images/profile.jpg"
   bio              : "Conducting Independent Study"
-  location         : 
+  location         : "China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gj50ToEAAAAJ&hl=en"
