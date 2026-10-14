@@ -37,13 +37,13 @@ My research interests include formal methods/verification of programming languag
   [[GitHub](https://github.com/stagesat-solver/stagesat)]  
 
 
-Manuscript
+<!-- Manuscript
 
 - [Accelerating Floating-Point Satisfiability Solving via Gradient Normalization](https://arxiv.org/abs/2610.08808).
 
   arxiv.
 
-  <!-- [[GitHub](https://github.com/stagesat-solver/stagesat)]   -->
+  [[GitHub](https://github.com/stagesat-solver/stagesat)]   -->
 
 <!-- - **Your Name**, Other Authors (Year). [Paper Title](link). *Venue*, Details. [[Project](link)]  
   Full Conference Name (CONF YEAR), Dates, Location (Artifact Badges) -->
