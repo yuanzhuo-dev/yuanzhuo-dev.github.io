@@ -21,6 +21,8 @@ I am Yuanzhuo (Pronunciation: /yuan-draw/). I obtained my master's degree in Com
 
 My research interests include formal methods/verification of programming languages and compiler optimization. Previously, I have been working on how to build a scalable and fast floating-point SMT (Satisfiability Modulo Theories) solver, which is used as the backend engine for formal verification.
 
+My Email: yuanzhuoz@acm.org
+
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
